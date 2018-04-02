@@ -1,0 +1,26 @@
+{
+  "name": "async-hooks-logger",
+  "version": "0.1.2",
+  "description": "async hook logger, can statistics duration time your app use resource",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node example",
+    "test": "echo test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenkingsley/async-hooks-logger.git"
+  },
+  "keywords": [
+    "async",
+    "hook",
+    "node",
+    "logger"
+  ],
+  "author": "stephen.K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenkingsley/async-hooks-logger/issues"
+  },
+  "homepage": "https://github.com/stephenkingsley/async-hooks-logger#readme"
+}
